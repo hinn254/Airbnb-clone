@@ -9,7 +9,7 @@ const Home = () => {
       <Banner />
       <div className="home__section">
         <Card
-          src="https://a0.muscache.com/im/pictures/eb9c7c6a-ee33-414a-b1ba-14e8860d59b3.jpg?im_w=720"
+          src="https://images.unsplash.com/photo-1579493933703-70473cdf84f8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
           title="Online Experiences"
           description="Unique activities we can do together, led by a world of hosts."
         />

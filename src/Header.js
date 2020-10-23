@@ -17,7 +17,7 @@ const Header = () => {
       </Link>
 
       <div className="header__center">
-        <input type="text" name="" id="" />
+        <input type="text" placeholder="Start your search" name="" id="" />
         <SearchIcon />
       </div>
       <div className="header__right">
